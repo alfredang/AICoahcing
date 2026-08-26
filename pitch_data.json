@@ -1,0 +1,63 @@
+{
+  "company_name": "Tertiary Infotech Academy Pte Ltd",
+  "tagline": "Redesign the job before deploying the agent.",
+  "problem": [
+    "AI agents are entering workflows faster than roles, decision rights and accountability are being redesigned.",
+    "Employees often experience adoption as a threat to job security, professional identity, control and fairness.",
+    "Tool training alone does not resolve the question: what does the human own when the agent can act?"
+  ],
+  "solution": [
+    "Create an explicit Human Owner role around every consequential agent workflow.",
+    "Give people five decision rights: direct, challenge, decide, escalate and improve.",
+    "Use GROW coaching to co-create the redesigned role instead of imposing it.",
+    "Rehearse difficult conversations safely in a six-scenario coaching simulator."
+  ],
+  "market": [
+    "More than 12,000 agents were created by Singapore public healthcare professionals after AgentSea launched in late May 2026.",
+    "WEF projects 170 million jobs created and 92 million displaced by 2030, a net gain of 78 million.",
+    "86% of surveyed employers expect AI to transform their business; 77% plan to upskill workers for AI.",
+    "The opportunity is to make agent direction, review and governance part of everyday work."
+  ],
+  "product": [
+    "Six fictional scenarios covering fear, anger, anxiety, scepticism, accountability and ethical purpose.",
+    "No-key demo mode for reliable workshops, plus optional AI-powered conversations.",
+    "GROW-based feedback on empathy, role clarity, decision rights and next-step experiments.",
+    "Responsive browser experience accessed directly from the presentation QR code."
+  ],
+  "traction": [
+    "Tertiary already uses agents inside website and software delivery workflows.",
+    "The same human-owner pattern is used when helping clients adopt agents in software work.",
+    "The simulator is live on GitHub Pages with six complete coaching scenarios.",
+    "The Sarah case demonstrates a concrete shift from threatened doer to AI-augmented marketing lead."
+  ],
+  "business_model": [
+    "Start with one role and one bounded agent workflow.",
+    "Map the work, name the accountable human owner and coach the transition.",
+    "Run a safe two-week experiment with explicit stop and escalation rules.",
+    "Measure cycle time, quality, exception handling, ownership clarity and staff confidence."
+  ],
+  "competition": {
+    "our_advantages": [
+      "Work redesign, not tool training alone",
+      "Explicit decision rights and accountable ownership",
+      "Safe rehearsal before consequential conversations",
+      "Practical two-week pilot instead of a large transformation programme"
+    ],
+    "competitors": [
+      "Status quo job descriptions",
+      "Hands-off automation",
+      "Blanket reassurance and generic upskilling",
+      "Technology deployment without transition coaching"
+    ]
+  },
+  "team": [
+    "Dr Alfred Ang: practitioner lead for AI-agent-enabled work and software workflows.",
+    "Tertiary Infotech Academy Pte Ltd: technical training, workplace learning and implementation practice."
+  ],
+  "financials": [
+    "The ask: pilot one role for two weeks.",
+    "Map what the agent should do and must never do.",
+    "Name who reviews, approves, escalates and stops the workflow.",
+    "Coach one person and use evidence to decide what scales next."
+  ]
+}

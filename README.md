@@ -47,15 +47,18 @@ API keys entered in AI mode are kept only in the current browser tab and are cle
 
 The visual 10-slide deck is designed for Dr Alfred Ang's CoP@Makerspace practitioner sharing on 27 August 2026. It includes timed speaker notes and a QR code to the live simulator.
 
-The evidence-led flow is:
+The evidence-led business pitch is:
 
-1. More than 12,000 AI agents created by Singapore public healthcare professionals.
-2. WEF Future of Jobs 2025 creation, displacement and employer-response data.
-3. Tertiary's experience using agents in website and software workflows.
-4. The employee-resistance bottleneck.
-5. A human-owner job-redesign pattern.
-6. GROW coaching and a worked Sarah scenario.
-7. A three-action call to redesign work, accountability and transition support.
+1. **Business case:** AI agents move fast; work design must catch up.
+2. **Why now:** more than 12,000 agents created by Singapore public healthcare professionals.
+3. **Stakes:** WEF creation, displacement and employer-response data.
+4. **Operating model:** accountable human gates around agent-supported delivery.
+5. **Problem:** adoption debt when roles lag behind deployment.
+6. **Solution:** an explicit Human Owner role with five decision rights.
+7. **Intervention:** GROW coaching that turns resistance into design input.
+8. **Product:** six-scenario coaching simulator with no-key demo mode.
+9. **Worked example:** Sarah moves from threatened doer to AI-augmented marketing lead.
+10. **Ask:** pilot one role for two weeks and measure cycle time, defects, exceptions and role confidence.
 
 Primary sources include the [Singapore Ministry of Health HIMSS26 APAC speech](https://www.moh.gov.sg/newsroom/speech-by-mr-tan-kiat-how--senior-minister-of-state--ministry-of-digital-development-and-information---ministry-of-health--at-himss26-apac-health-conference-and-exhibition--24-august-2026/) and the [World Economic Forum Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/).
 
@@ -69,6 +72,7 @@ Primary sources include the [Singapore Ministry of Health HIMSS26 APAC speech](h
 │   ├── Dr-Alfred-Work-Redesign-for-Managing-AI-Agents.pptx
 │   └── Dr-Alfred-Work-Redesign-for-Managing-AI-Agents.pdf
 ├── .github/workflows/deploy-pages.yml
+├── pitch_data.json
 ├── screenshot.png
 └── README.md
 ```
