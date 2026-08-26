@@ -1,0 +1,19 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+node_modules/
+tmp/
+.playwright-mcp/
+desktop-home.png
+mobile-home.png
+build_presentation.js
+A6-Coaching-Sarah.docx
+Job Redesign.pptx
+Tertiary Infotech Academy Pte Ltd Mail*.pdf
