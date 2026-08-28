@@ -1,12 +1,12 @@
 # AI Agent Job Redesign Coach
 
-[![Live simulator](https://img.shields.io/badge/Live_Simulator-GitHub_Pages-0B6E75?style=for-the-badge)](https://alfredang.github.io/AICoahcing/)
+[![Live simulator](https://img.shields.io/badge/Live_Simulator-GitHub_Pages-0B6E75?style=for-the-badge)](https://alfredang.github.io/AICoaching/)
 [![Presentation](https://img.shields.io/badge/Presentation-PPTX-092F57?style=for-the-badge)](presentation/Dr-Alfred-Work-Redesign-for-Managing-AI-Agents.pptx)
 [![License](https://img.shields.io/badge/Use-Training_Demo-F4B942?style=for-the-badge)](#responsible-use)
 
 A practical coaching simulator and 10-minute presentation for helping managers redesign jobs when AI agents enter the workflow.
 
-[Open the live simulator](https://alfredang.github.io/AICoahcing/) · [Download the PowerPoint](presentation/Dr-Alfred-Work-Redesign-for-Managing-AI-Agents.pptx) · [View the presentation PDF](presentation/Dr-Alfred-Work-Redesign-for-Managing-AI-Agents.pdf)
+[Open the live simulator](https://alfredang.github.io/AICoaching/) · [Download the PowerPoint](presentation/Dr-Alfred-Work-Redesign-for-Managing-AI-Agents.pptx) · [View the presentation PDF](presentation/Dr-Alfred-Work-Redesign-for-Managing-AI-Agents.pdf)
 
 ## Screenshot
 
